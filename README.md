@@ -1,5 +1,5 @@
 - 👋 @richard-keasley
 - 👀 Interested in how computers can be used within gymnastcis.
-- 🌱 I use PHP / CodeIgniter and JS / jQuery / Bootstrap.
+- 🌱 I use PHP / Joomla / CodeIgniter and JS / jQuery / Bootstrap.
 - 💞️ I’m always interested in membership databases, event scoring systems.
 - 📫 Find me at Hawth Gymnastics, Crawley.
